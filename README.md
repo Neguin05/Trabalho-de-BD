@@ -1,2 +1,2 @@
-# Trabalho-de-BD
-Trabalho de BD
+# Projeto de Banco De Dados
+### Projeto de Banco De Dados
